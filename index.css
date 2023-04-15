@@ -1,0 +1,4 @@
+.morty__main{
+    display: flex;
+    flex-wrap: wrap;
+}
